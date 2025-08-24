@@ -580,8 +580,8 @@ body {
   :root {
     --bg-primary: #1f2937;
     --bg-secondary: #111827;
-    --text-primary: #f9fafb;
-    --text-secondary: #d1d5db;
+    --text-primary: #000a14;
+    --text-secondary: #000000;
   }
 }
 /* Deadline Badge Styles */
